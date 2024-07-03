@@ -26,7 +26,7 @@ const Menu = () => {
         <ContainerLinks>
           <ListMenu>
             <li>
-              <Link to="/">Home</Link>
+              <Link to="/">Destaques da semana</Link>
             </li>
             <li>
               <Link to="/galeria">Mercado Nelore</Link>
