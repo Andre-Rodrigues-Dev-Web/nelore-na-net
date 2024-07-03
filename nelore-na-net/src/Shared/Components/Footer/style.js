@@ -25,6 +25,11 @@ export const FooterText = styled.p`
     font-size: 14px;
     text-align: center;
     margin-bottom: 20px;
+    a{
+        color: #333;
+        font-weight: bold;
+        text-decoration: none;
+    }
 `;
 
 export const SocialLinks = styled.div`
@@ -83,12 +88,16 @@ export const SubmitButton = styled.button`
 `;
 
 export const LoginLink = styled(Link)`
-    color: #333;
+    background-color: #4caf50;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 0.95em;
+    font-weight: 600;
+    padding: 10px 20px;
     text-decoration: none;
-    font-size: 14px;
     transition: color 0.3s ease;
 
     &:hover {
-        color: #55acee;
+        color: #ddd;
     }
 `;

@@ -35,8 +35,9 @@ const Footer = () => {
                     <SubmitButton type="submit">Inscrever-se</SubmitButton>
                 </FormContainer>
                 <LoginLink to="/login">Login na Plataforma</LoginLink>
+                <br />
                 <FooterText>
-                    &copy; {new Date().getFullYear()} André Laurentino Rodrigues. Todos os direitos reservados.
+                    &copy; {new Date().getFullYear()} Nelore Na Net. Todos os direitos reservados. Desenvolvimento: <a href="https://velance.com.br" target="_blank" rel="noopener noreferrer">Velance</a>
                 </FooterText>
             </FooterContent>
         </FooterContainer>
