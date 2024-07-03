@@ -35,7 +35,7 @@ const Menu = () => {
               <Link to="/historia">Conheça a raça</Link>
             </li>
             <li>
-              <Link to="/galeria">Galeria de fotos</Link>
+              <Link to="/galeria">Fotos</Link>
             </li>
             <li>
               <Link to="/galeria">Agenda de Eventos</Link>
