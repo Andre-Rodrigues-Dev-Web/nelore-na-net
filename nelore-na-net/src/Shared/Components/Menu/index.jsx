@@ -35,19 +35,19 @@ const Menu = () => {
               <Link to="/historia">Conheça a raça</Link>
             </li>
             <li>
-              <Link to="/cuidados">Cuidados</Link>
-            </li>
-            <li>
-              <Link to="/alimentacao">Alimentação</Link>
-            </li>
-            <li>
-              <Link to="/reproducao">Reprodução</Link>
-            </li>
-            <li>
-              <Link to="/galeria">Galeria</Link>
+              <Link to="/galeria">Galeria de fotos</Link>
             </li>
             <li>
               <Link to="/galeria">Agenda de Eventos</Link>
+            </li>
+            <li>
+              <Link to="/">Anuncie com a gente</Link>
+            </li>
+            <li>
+              <Link to="/">Sobre Nós</Link>
+            </li>
+            <li>
+              <Link to="/">Contato</Link>
             </li>
           </ListMenu>
         </ContainerLinks>
