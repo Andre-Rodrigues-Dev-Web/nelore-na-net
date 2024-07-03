@@ -1,4 +1,3 @@
-/* eslint-disable jsx-a11y/iframe-has-title */
 import { Link } from "react-router-dom";
 import NeloreNaNet from "../../../assets/imgs/logo-nelore-na-net.png";
 import {
@@ -55,7 +54,7 @@ const Menu = () => {
       </ContentMenu>
       <iframe
         src="https://www.agron.com.br/widgets/cotacao_interna_horizontalv2.php"
-        width="100%;"
+        width="1650px;"
         height="100px;"
         scrolling="no"
         frameborder="0"
