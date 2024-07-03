@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 const ContainerSidebar = styled.div`
-  width: 20%;
+  width: 30%;
   height: 100%;
   display: flex;
   flex-direction: column;

@@ -15,7 +15,7 @@ const LayoutContainer = styled.main`
 
 const Main = styled.main`
   @media (min-width: 768px) {
-    width: 80%;
+    width: 72%;
   }
 `;
 

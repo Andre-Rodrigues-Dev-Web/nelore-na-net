@@ -52,14 +52,6 @@ const Menu = () => {
           </ListMenu>
         </ContainerLinks>
       </ContentMenu>
-      <iframe
-        src="https://www.agron.com.br/widgets/cotacao_interna_horizontalv2.php"
-        width="1650px;"
-        height="100px;"
-        scrolling="no"
-        frameborder="0"
-        style="border-color:#F7F7F7; border:dotted 1px; border-color:#CCC"
-      ></iframe>
     </ContainerMenu>
   );
 };
