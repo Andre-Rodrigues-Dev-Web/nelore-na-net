@@ -75,6 +75,8 @@ const Post = () => {
         <meta name="twitter:data1" content={post.categoria} />
         <meta name="twitter:label2" content="Publicado em" />
         <meta name="twitter:data2" content={post.data} />
+        {/* Canonical */}
+        <link rel="canonical" href={window.location.href} />
       </Helmet>
       <article>
         <img src={post.imagem} alt={post.titulo} />
