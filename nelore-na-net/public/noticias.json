@@ -31,6 +31,7 @@
     "categoria": "destaques",
     "slug": "boas-praticas-na-criacao-de-bovinos-raca-nelore",
     "imagem": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/fazendas-Bartira-Presidente-Prudente.jpg",
+    "copyImagem": "CDN Canal Rural",
     "data": "2024-07-02",
     "autor": "André Laurentino Rodrigues"
   },
@@ -42,6 +43,7 @@
     "categoria": "noticias",
     "slug": "principais-desafios-dos-criadores-de-nelore-no-brasil",
     "imagem": "https://imagens-cdn.canalrural.com.br/wp-content/uploads/fazendas-Bartira-Presidente-Prudente.jpg",
+    "copyImagem": "CDN Canal Rural",
     "data": "2024-07-04",
     "autor": "André Laurentino Rodrigues"
   }

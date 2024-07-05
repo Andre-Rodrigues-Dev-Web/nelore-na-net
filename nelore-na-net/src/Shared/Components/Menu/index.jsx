@@ -29,7 +29,7 @@ const Menu = () => {
               <Link to="/">Destaques</Link>
             </li>
             <li>
-              <Link to="/galeria">Mercado Nelore</Link>
+              <Link to="/mercado-nelore">Mercado Nelore</Link>
             </li>
             <li>
               <Link to="/historia">Conheça a raça</Link>

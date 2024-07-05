@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Venda de Bezerros Nelore",
+    "description": "Bezerros de alta qualidade, ideais para cria e recria.",
+    "image": "/vendas/bezerros.jpg",
+    "preco": "R$ 1.200,00",
+    "parcelas": "12x de R$ 100,00",
+    "sexo": "Macho",
+    "idade": "6 meses",
+    "fazenda_dona": "Fazenda Boa Esperança",
+    "peso": "150 kg",
+    "slug": "venda-bezerros-nelore",
+    "status_venda": "Indisponível",
+    "galeria_fotos": [
+      "/vendas/bezerros-foto1.jpg",
+      "/vendas/bezerros-foto2.jpg",
+      "/vendas/bezerros-foto3.jpg"
+    ]
+  }
+]
