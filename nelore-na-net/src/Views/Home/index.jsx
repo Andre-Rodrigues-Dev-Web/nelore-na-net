@@ -3,6 +3,7 @@ import { Container, ContainerSlide, Col, RowNewsHome } from "../../Shared/Compon
 import { Content } from "./style";
 import NewsCard from "../../Shared/Components/NewsCard";
 import Carousel from "../../Shared/Components/Carousel";
+import FeaturedTitle from "../../Shared/Components/FeaturedTitle";
 
 const Home = () => {
   const [news, setNews] = useState([]);
@@ -25,6 +26,11 @@ const Home = () => {
         <ContainerSlide>
           <Carousel news={featuredNews} />
         </ContainerSlide>
+        <RowNewsHome>
+          <Col>
+            <FeaturedTitle titleName="Destaques da semana" />
+          </Col>
+        </RowNewsHome>
         <RowNewsHome>
           {news.map((item) => (
             <Col key={item.id}>
